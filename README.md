@@ -28,16 +28,16 @@ Dado un alfabeto de 67 símbolos ($\\Sigma = \\Sigma\_L \\cup \\Sigma\_U \\cup \
 ├── resources/
 │   └── diccionario.txt            # Diccionario de 500 entradas únicas para ataque no exhaustivo
 ├── results/
-│   ├── reporte\_resultados\_fb.txt  # Reporte detallado de ejecución secundaria (Corrida B)
-│   ├── tabla\_resultados\_bt.csv    # Métricas exportadas del Módulo Backtracking
-│   └── tabla\_resultados\_fb.csv    # Métricas exportadas del Módulo Fuerza Bruta (Corrida A)
+│   ├── reporte_resultados_fb.txt  # Reporte detallado de ejecución secundaria (Corrida B)
+│   ├── tabla_resultados_bt.csv    # Métricas exportadas del Módulo Backtracking
+│   └── tabla_resultados_fb.csv    # Métricas exportadas del Módulo Fuerza Bruta (Corrida A)
 ├── src/
-│   ├── third\_party/
+│   ├── third_party/
 │   │   └── picosha2.h             # Biblioteca header-only para cálculo de SHA-256 (Licencia MIT)
 │   └── main.cpp                   # Código fuente principal (LCG, Módulo FB, Módulo BT y exportación CSV)
 ├── tests/
-│   ├── test\_referencias.cpp       # Pruebas unitarias con instancias de referencia (ej. "abc12")
-│   └── verificar\_semilla.cpp      # Utilidad para validar el cálculo de la semilla ASCII
+│   ├── test_referencias.cpp       # Pruebas unitarias con instancias de referencia (ej. "abc12")
+│   └── verificar_semilla.cpp      # Utilidad para validar el cálculo de la semilla ASCII
 └── README.md
 ```
 
