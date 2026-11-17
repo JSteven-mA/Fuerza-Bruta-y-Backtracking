@@ -1,0 +1,89 @@
+========================================================
+ REPORTE DE RESULTADOS - EXPERIMENTO FUERZA BRUTA (FB)
+ Equipo: merchanardila
+ Semilla calculada: 1355
+========================================================
+
+--------------------------------------------------------
+INSTANCIA 1 [Longitud: 4 | Alfabeto: A1]
+--------------------------------------------------------
+  - Contraseña generada: mpip
+  - Hash SHA-256:        57911f10405b7bca2b344b5b127a943dd4b0613a4e73b9b8bfdcaf681d388287
+
+  [Modulo Fuerza Bruta]
+    * Resultado:           Contrasena encontrada -> mpip
+    * Candidatos evaluados: 239554
+    * Tiempo de ejecucion: 779.2896 ms
+
+  [Ataque por Diccionario]
+    * Pertenece al dicc:   Resultado: La contrasena NO se encuentra en el diccionario
+    * Candidatos evaluados: 500
+    * Tiempo de ejecucion: 1.8794 ms
+
+--------------------------------------------------------
+INSTANCIA 2 [Longitud: 4 | Alfabeto: A2]
+--------------------------------------------------------
+  - Contrasena generada: i3c1
+  - Hash SHA-256:        6e63c20370b87ffe4ef09ce580f19169d314e355f8a0163d7ae37deb41789851
+
+  [Modulo Fuerza Bruta]
+    * Resultado:           Contrasena encontrada -> i3c1
+    * Candidatos evaluados: 458920
+    * Tiempo de ejecucion: 1819.2184 ms
+
+  [Ataque por Diccionario]
+    * Pertenece al dicc:   Resultado: La contrasena NO se encuentra en el diccionario
+    * Candidatos evaluados: 500
+    * Tiempo de ejecucion: 2.0089 ms
+
+--------------------------------------------------------
+INSTANCIA 3 [Longitud: 5 | Alfabeto: A1]
+--------------------------------------------------------
+  - Contrasena generada: uhope
+  - Hash SHA-256:        ce402254de0ed839d8e3bfb7b902aac2f55bb5f8b99cdfd3ad6b064962146d43
+
+  [Modulo Fuerza Bruta]
+    * Resultado:           Contrasena encontrada -> uhope
+    * Candidatos evaluados: 9747665
+    * Tiempo de ejecucion: 32410.3933 ms
+
+  [Ataque por Diccionario]
+    * Pertenece al dicc:   Resultado: La contrasena NO se encuentra en el diccionario
+    * Candidatos evaluados: 500
+    * Tiempo de ejecucion: 1.8419 ms
+
+--------------------------------------------------------
+INSTANCIA 4 [Longitud: 5 | Alfabeto: A2]
+--------------------------------------------------------
+  - Contrasena generada: folmz
+  - Hash SHA-256:        c74c09a1dbf3b5fb9ae75cb3718f214b2f5db5d4c169a300914dc23bb443fa48
+
+  [Modulo Fuerza Bruta]
+    * Resultado:           Contrasena encontrada -> folmz
+    * Candidatos evaluados: 10793582
+    * Tiempo de ejecucion: 35312.2677 ms
+
+  [Ataque por Diccionario]
+    * Pertenece al dicc:   Resultado: La contrasena NO se encuentra en el diccionario
+    * Candidatos evaluados: 500
+    * Tiempo de ejecucion: 1.8997 ms
+
+--------------------------------------------------------
+INSTANCIA 5 [Longitud: 6 | Alfabeto: A1]
+--------------------------------------------------------
+  - Contrasena generada: kzclex
+  - Hash SHA-256:        011b2d35940569655aa6d48224d47c8476d7cf6783c8330589ebcd022bde23de
+
+  [Modulo Fuerza Bruta]
+    * Resultado:           Contrasena encontrada -> kzclex
+    * Candidatos evaluados: 142637506
+    * Tiempo de ejecucion: 475892.4651 ms
+
+  [Ataque por Diccionario]
+    * Pertenece al dicc:   Resultado: La contrasena NO se encuentra en el diccionario
+    * Candidatos evaluados: 500
+    * Tiempo de ejecucion: 1.8767 ms
+
+========================================================
+ FIN DEL REPORTE
+===========
