@@ -1,0 +1,4 @@
+Instancia,n,Nodos_Sin_Poda,Nodos_Con_Poda,Porcentaje_Reduccion,Soluciones_Sin_Poda,Soluciones_Con_Poda,Tiempo_ms_Sin_Poda,Tiempo_ms_Con_Poda,Correctitud_OK
+1,3,305320,43015,85.91,40560,40560,69.1740,15.9266,true
+2,4,20456441,890720,95.65,811200,811200,5546.2409,388.9732,true
+3,4,20456441,2183361,89.33,2068560,2068560,4316.3336,584.4274,true
